@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TotalConverter</string>
+
+    <string-array name="distances">
+        <item>Meters</item>
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Centimeters</item>
+    </string-array>
+    <string-array name="weights">
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+        <item>Grains</item>
+        <item>Tons</item>
+    </string-array>
+    <string-array name="volume">
+        <item>Pints</item>
+        <item>Cups</item>
+        <item>FluidOunces</item>
+        <item>Gallons</item>
+        <item>Liters</item>
+    </string-array>
+</resources>
